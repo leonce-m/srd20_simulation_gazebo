@@ -13,8 +13,8 @@
 		</include>
 		
 		<include>
-			<uri>model://cone_orange_1</uri>
-			<name>cone_orange_1</name>
+			<uri>model://models/cone_orange_small</uri>
+			<name>cone_orange_small</name>
 			<pose>0 0 1.5 0 0 0</pose>
 		</include>
 	</world>
